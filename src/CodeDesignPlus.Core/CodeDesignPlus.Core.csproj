@@ -3,7 +3,7 @@
   <PropertyGroup>
 	  <ProjectGuid>6E3B7311-BE0A-456C-B490-68B5C99EE7C9</ProjectGuid>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <PackageId>Gersonh.Sdk</PackageId>
+    <PackageId>CodeDesign.Core</PackageId>
     <RepositoryType>Git</RepositoryType>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
     <RepositoryUrl>https://github.com/jhosen07/CodeDesignPlus.Core</RepositoryUrl>
